@@ -19,6 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'Lens_CN',
   telegram: 'LensCN',  // github: 'transitive-bullshit',
+  lens: 'lenscn',  // github: 'transitive-bullshit',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL

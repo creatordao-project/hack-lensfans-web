@@ -121,6 +121,13 @@
   border-color: #00ab6c;
 }
 
+.lens .actionBgPane {
+  background: #00501E;
+}
+.lens:hover {
+  border-color: #00501E;
+}
+
 .newsletter .actionBgPane {
   background: #777777;
 }

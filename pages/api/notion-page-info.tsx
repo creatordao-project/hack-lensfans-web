@@ -101,7 +101,6 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
         })} ${datePublished.getFullYear()}`
       : undefined
   const detail = date || author || libConfig.domain
-
   const pageInfo: NotionPageInfo = {
     pageId,
     title,

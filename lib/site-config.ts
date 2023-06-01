@@ -18,6 +18,8 @@ export interface SiteConfig {
   zhihu?: string
   mastodon?: string;
   telegram?: string;
+  lens?: string;
+
 
   defaultPageIcon?: string | null
   defaultPageCover?: string | null
