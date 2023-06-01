@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'LensCN Hackation',
+  name: 'LensFans Hackation',
   domain: 'hack.lensfans.xyz',
   author: 'LensCN team',
 
   // open graph metadata (optional)
-  description: 'LensCN Hackation',
+  description: 'LensFans Hackation',
 
   // social usernames (optional)
   twitter: 'Lens_CN',

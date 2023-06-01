@@ -104,7 +104,7 @@
 
 .notion-collection-card {
   overflow: visible;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 .notion-collection-card-cover {
@@ -112,8 +112,7 @@
   /* border-bottom-left-radius: 16px; */
  /* max-width: 60%; */
  object-fit: cover;
- background-color: #fff;
-
+ background-color: #ffffff;
  /* background-color: gray; */
 }
 
