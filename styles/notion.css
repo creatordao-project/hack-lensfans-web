@@ -167,6 +167,7 @@
   .notion-collection-card-cover {
     transition: none 0ms linear;
   }
+  
 }
 
 .notion-quote {
@@ -285,6 +286,15 @@
   padding-top: 20px;
   flex-direction: row;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .notion-block-89e80079f42f4fed931d2547726bc18e .notion-list-body {
+    flex-direction: column;
+  }
+}
+
+
 
 .notion-collection {
   margin-bottom: 20px;
