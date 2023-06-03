@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'LensCN-Hackathon-fa2533bb2f3c4791b3e3b5ca79c3609a',
+  rootNotionPageId: 'fa2533bb2f3c4791b3e3b5ca79c3609a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: '177c903f-358e-4fd1-b957-1a1ff5fa0b2b',
 
   // basic site info (required)
   name: 'LensFans Hackation',
@@ -55,7 +55,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'resources',
+      title: 'Resources',
       pageId: '89e80079f42f4fed931d2547726bc18e'
     }
   ]

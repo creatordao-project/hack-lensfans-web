@@ -139,6 +139,7 @@
   display: none;
 }
 
+/* cd4e2960e3e74bbc89beeeb2224412ab is the id of the collection */
 .notion-block-cd4e2960e3e74bbc89beeeb2224412ab .notion-collection-card-cover {
   margin-top: 10px;
 }
@@ -257,11 +258,6 @@
   .notion-page-cover-wrapper img {
     border-radius: 0;
   }
-}
-
-.notion-block-ab9a258d6cf444f3bb40dc2600feae91 .notion-page-link {
-  justify-content: center;
-  padding: 2em;
 }
 
 .notion-code {
@@ -439,14 +435,6 @@
 .notion-bookmark:hover {
   border-image: linear-gradient(90.68deg, #b439df 0.26%, #e5337e 102.37%);
   border-image-slice: 1;
-}
-
-.notion-block-ab9a258d6cf444f3bb40dc2600feae91 .notion-column {
-  padding: 0;
-}
-
-.notion-block-260baa77f1e1428b97fb14ac99c7c385 {
-  display: none;
 }
 
 .notion-nav-header-rhs .breadcrumb:nth-child(2) {
