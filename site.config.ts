@@ -55,7 +55,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Resources',
+      title: 'resources',
       pageId: '89e80079f42f4fed931d2547726bc18e'
     }
   ]
